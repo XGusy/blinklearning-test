@@ -4,7 +4,7 @@ To start this project you only need to install the dependencies run `npm install
 
 ## About the logic
 
-The code was partially built thinking on a dynamic scenario. I do not make it 100% dynamic because the time.
+The code was partially built thinking on a dynamic scenario.
 
 The changes that i could do to make it more dynamic its to use images linked to response options by his unique ids. This way we can load all the test resources dinamically with the data get from API. 
 
